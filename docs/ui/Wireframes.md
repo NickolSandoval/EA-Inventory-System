@@ -26,5 +26,4 @@ The purpose of these wireframes is to validate navigation, workflows and screen 
 | Company              |
 | Branches             |
 | Categories           |
-| Inventory            |
 +----------------------+
